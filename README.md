@@ -1,1 +1,3 @@
 # IMO_1960_Problem1
+
+For those familiar with the IMO 1960 Number Theoery Problem, this is a little script that do all the hassle and solve the problem for you in less 1 sec saving you the 30mins stress of solving the quite difficult problem....
