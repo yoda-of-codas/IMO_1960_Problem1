@@ -1,0 +1,1 @@
+# IMO_1960_Problem1
