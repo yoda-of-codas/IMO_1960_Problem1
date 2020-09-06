@@ -1,3 +1,4 @@
+#!usr/bin/python
 for number in range(100,1000):
    if number%11==0:
       digits = [int(i) for i in str(number)]
